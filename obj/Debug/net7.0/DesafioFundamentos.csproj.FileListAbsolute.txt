@@ -1,0 +1,15 @@
+C:\projetos\c#\DesafioFundamentos\bin\Debug\net7.0\DesafioFundamentos.exe
+C:\projetos\c#\DesafioFundamentos\bin\Debug\net7.0\DesafioFundamentos.deps.json
+C:\projetos\c#\DesafioFundamentos\bin\Debug\net7.0\DesafioFundamentos.runtimeconfig.json
+C:\projetos\c#\DesafioFundamentos\bin\Debug\net7.0\DesafioFundamentos.dll
+C:\projetos\c#\DesafioFundamentos\bin\Debug\net7.0\DesafioFundamentos.pdb
+C:\projetos\c#\DesafioFundamentos\obj\Debug\net7.0\DesafioFundamentos.csproj.AssemblyReference.cache
+C:\projetos\c#\DesafioFundamentos\obj\Debug\net7.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\c#\DesafioFundamentos\obj\Debug\net7.0\DesafioFundamentos.AssemblyInfoInputs.cache
+C:\projetos\c#\DesafioFundamentos\obj\Debug\net7.0\DesafioFundamentos.AssemblyInfo.cs
+C:\projetos\c#\DesafioFundamentos\obj\Debug\net7.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+C:\projetos\c#\DesafioFundamentos\obj\Debug\net7.0\DesafioFundamentos.dll
+C:\projetos\c#\DesafioFundamentos\obj\Debug\net7.0\refint\DesafioFundamentos.dll
+C:\projetos\c#\DesafioFundamentos\obj\Debug\net7.0\DesafioFundamentos.pdb
+C:\projetos\c#\DesafioFundamentos\obj\Debug\net7.0\DesafioFundamentos.genruntimeconfig.cache
+C:\projetos\c#\DesafioFundamentos\obj\Debug\net7.0\ref\DesafioFundamentos.dll
